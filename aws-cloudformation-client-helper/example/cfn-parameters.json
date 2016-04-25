@@ -1,0 +1,19 @@
+[
+    {
+        "ParameterKey": "IAMRoleParam", 
+        "ParameterValue": "samplerole"
+    },
+    {
+        "ParameterKey": "VpcCidrParam", 
+        "ParameterValue": "10.85.166.0/23"
+    }, 
+    {
+        "ParameterKey": "AdminUserName", 
+        "ParameterValue": "admin"
+    }, 
+    {
+        "ParameterKey": "KeyPairparam", 
+        "ParameterValue": "admin"
+    }
+
+]
